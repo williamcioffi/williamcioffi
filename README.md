@@ -1,16 +1,30 @@
-## Hi there 👋
+[williamcioffi.github.io/](https://williamcioffi.github.io/)
 
-<!--
-**williamcioffi/williamcioffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### pages
+- [keratin archives](https://williamcioffi.github.io/keras)
+	biomolecules in baleen.
+- [sattag supplement](https://williamcioffi.github.io/sattag_supplement_pub)
+	some notes on Wildlife Computers (mostly SPLASH10) satellite tags and closely related topics
+- [horrible R mistakes](https://github.com/williamcioffi/horrible_r_mistakes) a collection of mistakes in R from which to learn. Contributions welcome!
 
-Here are some ideas to get you started:
+### software
+- [sattagutils](https://github.com/williamcioffi/sattagutils)
+	an R package for handling data from Wildlife Computers satallite tags (mostly SPLASH10).
+- [monitorgonio](https://github.com/williamcioffi/monitorgonio)
+	an R package containing a shiny app to display Argos Goniometer output in the field.
+- [parsegonio](https://github.com/williamcioffi/parsegonio)
+	an R function for parsing Argos Goniometer recieved mesages form Wildlife Computers satallite tags.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### contact
+William R. Cioffi<br />
+135 Duke Marine Lab Rd<br />
+Beaufort, NC 28516, USA<br />
+
+wrc14 [at] duke.edu<br />
+[orcid.org/0000-0003-1182-8578](https://orcid.org/0000-0003-1182-8578)<br />
+[google scholar](https://scholar.google.com/citations?user=dIR3B28AAAAJ&hl=en&oi=sra)
+
+![](style/minkelogo_bw.svg)
+
+
