@@ -16,7 +16,7 @@
 	an R function for parsing Argos Goniometer recieved mesages form Wildlife Computers satallite tags.
 
 ### artwork
-- [tag and ziphius svgs](https://github.com/williamcioffi/zc_tag_sketches)
+- [tag and ziphius svgs](https://github.com/williamcioffi/zc_tag_sketches) some logos of different ziphius and tag configurations.
 
 
 ### contact
