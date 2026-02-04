@@ -15,6 +15,9 @@
 - [parsegonio](https://github.com/williamcioffi/parsegonio)
 	an R function for parsing Argos Goniometer recieved mesages form Wildlife Computers satallite tags.
 
+### artwork
+- [tag and ziphius svgs](https://github.com/williamcioffi/zc_tag_sketches)
+
 
 ### contact
 William R. Cioffi<br />
